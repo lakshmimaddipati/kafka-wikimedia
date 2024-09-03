@@ -13,3 +13,12 @@
 - [Opensearch](https://opensearch.org/) is a fork of ElasticSerach and Kibana. Locally it is setup using docker as well. The messages are delivered in atleast once fashion and offsets are commited as soon as they are processed. To prevent duplicate processing of messages, idempotency is maintained.
 
 - Once the project is setup and docker containers are running, conduktor ui can be found on ```localhost:8080``` and opensearch dashboard can be found on ```localhost:5601```
+
+#### Conduktor UI:
+![image](https://github.com/user-attachments/assets/59d71f33-6d92-44d2-abc3-5cb1708307e5)
+![WhatsApp Image 2024-09-02 at 12 19 28_a115ac6a](https://github.com/user-attachments/assets/100376dc-7212-4445-bcc1-b88a269ecbf6)
+![WhatsApp Image 2024-09-02 at 12 19 57_9fdfa910](https://github.com/user-attachments/assets/198a0e22-5663-470a-b3e3-4d67d1789521)
+
+#### OpenSearch Dashboards:
+![image](https://github.com/user-attachments/assets/a4b5bc31-f5c5-46d4-a6c8-bcbf517e5f71)
+
